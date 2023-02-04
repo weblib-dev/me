@@ -1,2 +1,2 @@
 this project is made by frankeeef
-<a href="weblib.dev"><button class="button is-info"> go to website here</button></a>
+<a href="https://weblib.dev/"><button class="button is-info"> go to website here</button></a>
